@@ -1,0 +1,2 @@
+# assaigment
+assaigment for javascript
